@@ -6,7 +6,7 @@ Sample input:\
 
 First element in output should be the product of all other elements except the first.\
 &nbsp;&nbsp;first_element = 3 * 7 * 5\
-&nbsp;&nbsp;second_element = 1 * 7 * 5\
+&nbsp;&nbsp;second_element = 1 * 7 * 5
 
 Corresponding output list:\
 &nbsp;&nbsp;[105, 35, 15, 21]
