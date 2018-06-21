@@ -13,7 +13,7 @@ Corresponding output list:\
 
 Instead of looping thru and multiplying all elements except corresponding element:\
 &nbsp;&nbsp;first pass multiply all elements\
-&nbsp;&nbsp;second pass divide that product by the corresponding element\
+&nbsp;&nbsp;second pass divide that product by the corresponding element
 
 Product of all elements in sample input: 105\
 &nbsp;&nbsp;first_element = 105 / 1\
